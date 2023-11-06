@@ -1,0 +1,23 @@
+[
+    {
+      "name": "Perbaikan komputer",
+      "description": "Kami memperbaiki berbagai jenis kerusakan komputer, termasuk kerusakan hardware dan software."
+    },
+    {
+      "name": "Pemasangan dan konfigurasi software",
+      "description": "Kami memasang dan mengkonfigurasi berbagai macam software, termasuk sistem operasi, aplikasi, dan driver."
+    },
+    {
+      "name": "Pemasangan dan konfigurasi hardware",
+      "description": "Kami memasang dan mengkonfigurasi berbagai macam hardware, termasuk RAM, hard drive, dan kartu grafis."
+    },
+    {
+      "name": "Pembersihan dan optimasi komputer",
+      "description": "Kami membersihkan dan mengoptimalkan komputer Anda untuk meningkatkan kinerjanya."
+    },
+    {
+      "name": "Instalasi dan konfigurasi jaringan",
+      "description": "Kami memasang dan mengkonfigurasi jaringan komputer Anda, termasuk LAN, WAN, dan WiFi."
+    }
+  ]
+  
